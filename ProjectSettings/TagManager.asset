@@ -8,6 +8,7 @@ TagManager:
   - enemy
   - ammo
   - resource
+  - shield
   layers:
   - Default
   - TransparentFX
